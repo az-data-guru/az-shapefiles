@@ -23,8 +23,8 @@ Some Notes:
   * SC: Santa Cruz
   * YA: Yavapai
   * YU: Yuma
-  
-  
+ * The 2012 precinct file is from the U.S. Census and follows their naming conventions.
+ * The 2016 precinct file is from MIT Election Labs. It includes my precinct identifier, but contests from 2016 have been attached.
   
   
   
